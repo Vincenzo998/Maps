@@ -1,0 +1,14 @@
+.position-custom {
+    background: #1A237E; 
+    color: white;
+}
+
+.position-custom:hover {
+    background: #304FFE;
+    opacity: 0.9;
+}
+
+#map {
+    height: 700px;
+    width: 1200px;
+}

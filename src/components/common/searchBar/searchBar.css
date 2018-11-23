@@ -1,0 +1,19 @@
+.input-custom {
+    border-radius: 20px!important;
+}
+
+.button-custom {
+    border-radius: 20px!important;
+    background: #1A237E; 
+    color: white;
+    width: 90px;
+}
+
+.button-custom:hover {
+    background: #304FFE;
+    opacity: 0.9;
+}
+
+.title-custom {
+    color: #1A237E; 
+}
