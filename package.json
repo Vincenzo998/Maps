@@ -70,6 +70,10 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/Vincenzo998/Maps.git"
+=======
+    "url": "https://github.com/Vincenzo998/Scaffold-React-Redux.git"
+>>>>>>> 78d7952d8ef4a6de61cab691c841ad8831a75143
   }
 }
